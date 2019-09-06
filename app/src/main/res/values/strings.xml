@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">List Superhero</string>
+    <string name="about">About</string>
+    <string name="author_name">Mochamad Fajar Sodik</string>
+    <string name="author_email">mochamad.fajarsodik@gmail.com</string>
+    <string name="detail">Detail</string>
+    <string name="heroes_name">Heroes Name</string>
+    <string name="publisher">Publisher</string>
+    <string name="simple_description">Simple Description</string>
+    <string name="creator">Creator</string>
+    <string name="description">Description :</string>
+    <string name="creator_explain">Creator :</string>
+    <string name="publisher_explain">Publisher :</string>
+</resources>
